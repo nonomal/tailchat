@@ -1,15 +1,11 @@
 {
   "compilerOptions": {
-    "target": "esnext",
-    "lib": ["DOM"],
-    "jsx": "react",
     "esModuleInterop": true,
     "isolatedModules": true,
-    "module": "ESNext",
-    "moduleResolution": "node",
     "strict": true,
+    "pretty": true,
+    "skipLibCheck": true,
     "importsNotUsedAsValues": "error",
-    "resolveJsonModule": true,
-    "typeRoots": ["./node_modules/@types", "../node_modules/@types", "./types"]
+    "experimentalDecorators": true,
   }
 }

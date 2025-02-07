@@ -1,9 +1,0 @@
-{
-  "compilerOptions": {
-    "target": "ES5",
-    "declaration": true,
-    "lib": ["DOM"],
-    "rootDir": "./src",
-    "outDir": "lib"
-  }
-}

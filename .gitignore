@@ -1,8 +1,11 @@
-web/tailchat.d.ts
-
-locales
+docker/swag.env
+client/locales
 .vercel
 .DS_Store
+
+# yalc
+.yalc
+yalc.lock
 
 # Logs
 logs
